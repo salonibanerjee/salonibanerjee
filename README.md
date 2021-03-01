@@ -1,7 +1,7 @@
-### Hi there 👋
-😄 Pronouns: She / Her
-🌱 I’m currently learning Data Analytics
-📫 How to reach me: salonibanerjee97@gmail.com
+### Hi there 👋 </br>
+😄 Pronouns: She / Her </br>
+🌱 I’m currently learning Data Analytics </br>
+📫 How to reach me: salonibanerjee97@gmail.com </br>
 
 <!--
 **salonibanerjee/salonibanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
