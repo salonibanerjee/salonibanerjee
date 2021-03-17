@@ -1,7 +1,7 @@
 ### Hi there 👋 </br>
 😄 Pronouns: She / Her </br>
-🌱 I’m currently learning Data Analytics </br>
-⚡ Fun fact: I'm always up for discussing ideas </br>
+🌱 Currently learning Data Analytics </br>
+⚡ Always appreciating innovation and creative ideas </br>
 
 <!--
 **salonibanerjee/salonibanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
